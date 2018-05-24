@@ -1,3 +1,3 @@
 function add(a, b) {
-  return 1200 + 36
+  return a + b
 }
